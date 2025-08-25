@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Catrine Robinson Christansen"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "MSc in Astrophysics | Python, Data Analysis & Visualisation | Problem Solving"
+  bio    : "MSc in Astrophysics - Python, Data Analysis & Visualisation - Problem Solving"
   email: "catrinerc@hotmail.com"
   links:
     - label: "Website"
